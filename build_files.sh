@@ -12,8 +12,7 @@
 #python3.12.2 manage.py collectstatic --noinput
 #!/bin/bash
 
-# Activate the virtual environment
-#source /c/Users/Admin/Desktop/django/django-env/Scripts/activate
+
 
 # Ensure pip is available
 python -m ensurepip --upgrade
